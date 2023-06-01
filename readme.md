@@ -65,3 +65,7 @@ initial commit at 6/1/23 - 2:59
 ## [lesson 9](https://github.com/KerimCETINBAS/golang/tree/lesson_9)
 
 - arithmetic operators
+
+## [lesson 10](https://github.com/KerimCETINBAS/golang/tree/lesson_10)
+
+- functions
