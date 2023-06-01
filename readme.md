@@ -71,3 +71,7 @@ All episodes in its branch,
 ## [lesson 11](https://github.com/KerimCETINBAS/golang/tree/lesson_11)
 
 - package scopes
+
+## [lesson 12](https://github.com/KerimCETINBAS/golang/tree/lesson_12)
+
+- maps
