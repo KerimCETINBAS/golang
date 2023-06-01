@@ -1,3 +1,7 @@
+#### [go to index](https://github.com/KerimCETINBAS/golang)
+
+&#10;
+
 # First Go File
 
 functions declared func keyword
