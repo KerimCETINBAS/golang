@@ -36,3 +36,8 @@ initial commit at 6/1/23 - 2:59
 - Arrays
 - Slices,
 - `len()`, and `append()` functions
+
+## [lesson 6](https://github.com/KerimCETINBAS/golang/tree/lesson_6)
+
+- Standard Library
+- strings & sort package
