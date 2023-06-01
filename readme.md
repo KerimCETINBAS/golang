@@ -61,3 +61,7 @@ initial commit at 6/1/23 - 2:59
   - AND Operator (&&)
   - OR Operator (||)
   - NOT Operator (!)
+
+## [lesson 9](https://github.com/KerimCETINBAS/golang/tree/lesson_9)
+
+- arithmetic operators
