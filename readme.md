@@ -2,7 +2,7 @@
 
 &#10;
 
-# Lesson 6
+# Lesson 7
 
 # Go Loop Constructs
 
