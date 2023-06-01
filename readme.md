@@ -42,7 +42,7 @@ initial commit at 6/1/23 - 2:59
 - Standard Library
 - strings & sort package
 
-## [lesson 6](https://github.com/KerimCETINBAS/golang/tree/lesson_7)
+## [lesson 7](https://github.com/KerimCETINBAS/golang/tree/lesson_7)
 
 - loops
   - for
