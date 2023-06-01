@@ -75,3 +75,10 @@ All episodes in its branch,
 ## [lesson 12](https://github.com/KerimCETINBAS/golang/tree/lesson_12)
 
 - maps
+
+## [lesson 13](https://github.com/KerimCETINBAS/golang/tree/lesson_13)
+
+- passing by value
+- pointers
+- non-pointer values
+- pointer wrapper values
