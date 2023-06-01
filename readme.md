@@ -1,3 +1,7 @@
+#### [go to index](https://github.com/KerimCETINBAS/golang)
+
+&#10;
+
 # What is Go?
 
 - Go is a " fast, statically typed, compiled language"
