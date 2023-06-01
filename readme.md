@@ -1,4 +1,4 @@
-#### [go to index](https://github.com/KerimCETINBAS/golang)
+#### [go to index](https://github.com/KerimCETINBAS/golang) - [previous lesson](https://github.com/KerimCETINBAS/golang/tree/lesson_1) - [next lesson](https://github.com/KerimCETINBAS/golang/tree/lesson_3)
 
 &#10;
 
