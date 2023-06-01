@@ -110,3 +110,8 @@ All episodes in its branch,
 
 - Parsing numbers
 - strconv package
+
+## [lesson 20](https://github.com/KerimCETINBAS/golang/tree/lesson_20)
+
+- writing files
+- io and os package
