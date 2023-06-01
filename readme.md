@@ -1,5 +1,5 @@
-#### [go to index](https://github.com/KerimCETINBAS/golang) - [previous lesson](https://github.com/KerimCETINBAS/golang/tree/lesson_2) - [next lesson](https://github.com/KerimCETINBAS/golang/tree/lesson_2)
+#### [go to index](https://github.com/KerimCETINBAS/golang) - [previous lesson](https://github.com/KerimCETINBAS/golang/tree/lesson_14) - [next lesson](https://github.com/KerimCETINBAS/golang/tree/lesson_16)
 
 &#10;
 
-# Lesson 6
+# Lesson 15
