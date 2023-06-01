@@ -49,3 +49,15 @@ initial commit at 6/1/23 - 2:59
   - while
   - do while
   - for in
+
+## [lesson 8](https://github.com/KerimCETINBAS/golang/tree/lesson_8)
+
+- booleans
+- Conditional Statements - 1
+  - If Statement
+  - If-Else Statement
+  - If-Else If-Else Statement
+- Logical Operators
+  - AND Operator (&&)
+  - OR Operator (||)
+  - NOT Operator (!)
