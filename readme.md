@@ -101,3 +101,7 @@ All episodes in its branch,
 
 - reading user inputs
 - os and bufio package
+
+## [lesson 18](https://github.com/KerimCETINBAS/golang/tree/lesson_18)
+
+- swithc case statements
