@@ -91,3 +91,8 @@ All episodes in its branch,
 
 - Structs
 - Custom Types
+
+## [lesson 16](https://github.com/KerimCETINBAS/golang/tree/lesson_16)
+
+- Pointer Receivers
+- Calling Pointer Receiver Functions
