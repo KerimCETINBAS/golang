@@ -96,3 +96,8 @@ All episodes in its branch,
 
 - Pointer Receivers
 - Calling Pointer Receiver Functions
+
+## [lesson 17](https://github.com/KerimCETINBAS/golang/tree/lesson_17)
+
+- reading user inputs
+- os and bufio package
