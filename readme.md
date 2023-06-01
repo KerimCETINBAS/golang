@@ -2,8 +2,6 @@
 
 All episodes in its branch,
 
-initial commit at 6/1/23 - 2:59
-
 ## [lesson 1](https://github.com/KerimCETINBAS/golang/tree/lesson_1)
 
 - What is go
