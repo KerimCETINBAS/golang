@@ -86,3 +86,8 @@ All episodes in its branch,
 ## [lesson 14](https://github.com/KerimCETINBAS/golang/tree/lesson_14)
 
 - pointers - 2
+
+## [lesson 15](https://github.com/KerimCETINBAS/golang/tree/lesson_15)
+
+- Structs
+- Custom Types
