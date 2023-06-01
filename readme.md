@@ -69,3 +69,7 @@ initial commit at 6/1/23 - 2:59
 ## [lesson 10](https://github.com/KerimCETINBAS/golang/tree/lesson_10)
 
 - functions
+
+## [lesson 11](https://github.com/KerimCETINBAS/golang/tree/lesson_11)
+
+- package scopes
