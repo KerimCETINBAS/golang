@@ -105,3 +105,8 @@ All episodes in its branch,
 ## [lesson 18](https://github.com/KerimCETINBAS/golang/tree/lesson_18)
 
 - switch case statements
+
+## [lesson 19](https://github.com/KerimCETINBAS/golang/tree/lesson_19)
+
+- Parsing numbers
+- strconv package
