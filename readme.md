@@ -79,6 +79,10 @@ All episodes in its branch,
 ## [lesson 13](https://github.com/KerimCETINBAS/golang/tree/lesson_13)
 
 - passing by value
-- pointers
+- pointers - 1
 - non-pointer values
 - pointer wrapper values
+
+## [lesson 14](https://github.com/KerimCETINBAS/golang/tree/lesson_14)
+
+- pointers - 2
