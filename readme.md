@@ -85,5 +85,3 @@ var result int
 result = ++count // Pre-increment - increment count and assign the incremented value to result
 result = count++ // Post-increment - assign the current value of count to result and then increment count
 ```
-
-These are the basic arithmetic operators in Go. You can use them to perform mathematical calculations in your programs.
