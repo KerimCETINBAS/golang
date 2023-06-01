@@ -30,3 +30,9 @@ initial commit at 6/1/23 - 2:59
 - String Formatting
   - Format Specifiers
   - Sprintf() method
+
+## [lesson 5](https://github.com/KerimCETINBAS/golang/tree/lesson_5)
+
+- Arrays
+- Slices,
+- `len()`, and `append()` functions
