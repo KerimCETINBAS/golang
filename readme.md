@@ -104,4 +104,4 @@ All episodes in its branch,
 
 ## [lesson 18](https://github.com/KerimCETINBAS/golang/tree/lesson_18)
 
-- swithc case statements
+- switch case statements
