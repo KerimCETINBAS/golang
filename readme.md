@@ -2,6 +2,12 @@
 
 All episodes in its branch,
 
+run example codes
+
+```bash
+ls **/*.go | entr go run *.go
+```
+
 ## [lesson 1](https://github.com/KerimCETINBAS/golang/tree/lesson_1)
 
 - What is go
