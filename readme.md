@@ -122,6 +122,6 @@ ls **/*.go | entr go run *.go
 - writing files
 - io and os package
 
-## [lesson 21](https://github.com/KerimCETINBAS/golang/tree/lesson_20)
+## [lesson 21](https://github.com/KerimCETINBAS/golang/tree/lesson_21)
 
 - interfaces
