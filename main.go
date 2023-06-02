@@ -34,5 +34,12 @@ func main() {
 		race: "hobgoblin",
 	}
 
+	newCharacter := character{
+		name: "Radagad",
+		race: "Human",
+	}
+
 	printName(newMonster)
+
+	printName(newCharacter)
 }
