@@ -125,3 +125,7 @@ ls **/*.go | entr go run *.go
 ## [lesson 21](https://github.com/KerimCETINBAS/golang/tree/lesson_21)
 
 - interfaces
+
+## [lesson 22](https://github.com/KerimCETINBAS/golang/tree/lesson_22)
+
+- defer keyword
