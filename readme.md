@@ -129,3 +129,7 @@ ls **/*.go | entr go run *.go
 ## [lesson 22](https://github.com/KerimCETINBAS/golang/tree/lesson_22)
 
 - defer keyword
+
+## [lesson 23](https://github.com/KerimCETINBAS/golang/tree/lesson_23)
+
+- basic crud api with gin framework
