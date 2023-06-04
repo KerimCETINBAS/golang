@@ -135,6 +135,13 @@ ls **/*.go | entr go run *.go
 - basic crud api with gin framework
 
 ## [lesson 24](https://github.com/KerimCETINBAS/golang/tree/lesson_24)
-
-- concurrency
+ 
+- concurrency - 1
 - go routine
+- wait groups
+
+
+## [lesson 25](https://github.com/KerimCETINBAS/golang/tree/lesson_25)
+
+- concurrency - 2
+- channels
