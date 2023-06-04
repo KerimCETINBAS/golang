@@ -1,64 +1,47 @@
 package main
 
-import (
-	"fmt"
-	"time"
-)
+import "fmt"
 
 func main() {
-	c := make(chan string)
-	c2 := make(chan string)
-	//go count("sheep", c)
+	jobs := make(chan int, 100)
+	results := make(chan int, 100)
 
-	// for {
+	fmt.Println("program start")
+	go worker(jobs, results)
 
-	// 	msg, open := <-c
-
-	// 	if !open {
-	// 		break
-	// 	}
-
-	// for msg := range c {
-
-	// 	fmt.Println(msg)
-	// }
-
-	go func() {
-		for {
-			c <- "Every second"
-			time.Sleep(time.Second)
-		}
-	}()
-
-	go func() {
-		for {
-			c2 <- "Every 2 second"
-			time.Sleep(time.Second * 2)
-		}
-	}()
-
-	for {
-
-		// blocking as slowest one
-		// fmt.Println(<-c)
-		// fmt.Println(<-c2)
-
-		select {
-		case msg1 := <-c:
-			fmt.Println(msg1)
-		case msg2 := <-c2:
-			fmt.Println(msg2)
-
-		}
+	// more worker more cpu effinecy
+	// go worker(jobs, results)
+	// go worker(jobs, results)
+	// go worker(jobs, results)
+	// go worker(jobs, results)
+	// go worker(jobs, results)
+	// go worker(jobs, results)
+	// go worker(jobs, results)
+	// go worker(jobs, results)
+	// go worker(jobs, results)
+	for i := 0; i < 100; i++ {
+		jobs <- i
 	}
+
+	close(jobs)
+
+	for j := 0; j < 100; j++ {
+		fmt.Println(<-results)
+	}
+
 }
 
-func count(str string, c chan string) {
-
-	for {
-
-		c <- str
-		time.Sleep(time.Second)
-
+func worker(jobs <-chan int, results chan<- int) {
+	for n := range jobs {
+		results <- fib(n)
 	}
+
+}
+func fib(n int) int {
+
+	if n <= 1 {
+		return n
+	}
+
+	return fib(n-1) + fib(n-2)
 }
