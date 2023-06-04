@@ -145,3 +145,9 @@ ls **/*.go | entr go run *.go
 
 - concurrency - 2
 - channels
+
+## [lesson 26](https://github.com/KerimCETINBAS/golang/tree/lesson_26)
+
+- concurrency - 3
+- job que-que example
+
