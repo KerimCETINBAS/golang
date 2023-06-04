@@ -133,3 +133,8 @@ ls **/*.go | entr go run *.go
 ## [lesson 23](https://github.com/KerimCETINBAS/golang/tree/lesson_23)
 
 - basic crud api with gin framework
+
+## [lesson 24](https://github.com/KerimCETINBAS/golang/tree/lesson_24)
+
+- concurrency
+- go routine
