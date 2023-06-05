@@ -151,3 +151,9 @@ ls **/*.go | entr go run *.go
 - concurrency - 3
 - job que-que example
 
+
+## [lesson 27](https://github.com/KerimCETINBAS/golang/tree/lesson_27)
+
+- encoding/json package
+- type conversion
+
