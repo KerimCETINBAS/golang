@@ -21,7 +21,7 @@ ls **/*.go | entr go run *.go
 - Declaring variables
 - string
 - numbers
-  - int, int8, int16, int32, int68
+  - int, int8, int16, int32, int64
   - uint, uint8...
   - float32, float64
 
